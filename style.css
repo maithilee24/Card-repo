@@ -1,0 +1,80 @@
+.main{
+    margin-left: 35%;
+    width: 30rem;
+}
+.header{
+    position: relative;
+}
+.girl-picture{
+    height: 20rem;
+    width: 30rem;
+    position: relative;
+    z-index: 0;
+}
+.red-heart{
+    height: 1.5rem;
+    width: 1.5rem;
+    left: 0;
+    margin-left: 3%;
+    position: absolute;
+    z-index: 100;
+    top: 0.5rem;
+}
+.three-lines{
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-right: 3%;
+    position: absolute;
+    z-index: 100;
+    right: 0;
+    top: 0.5rem;
+}
+.facebook-logo{
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-right: 5%;
+    margin-left: 25%;
+}
+.twitter-logo,.google-logo,.github-logo{
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-right: 5%;
+}
+.linkedin-logo{
+    height: 1.5rem;
+    width: 1.5rem;
+}
+h1,h2{
+    text-align: center;
+}
+p{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+}
+hr{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5%;
+}
+.contact-button{
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    margin-right: 5%;
+    height: 2rem;
+    width: 7rem;
+}
+.hire-button{
+    color: black;
+    border-color: dodgerblue;
+    background-color: white;
+    height: 2rem;
+    width: 7rem;
+}
+
